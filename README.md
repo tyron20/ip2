@@ -1,5 +1,4 @@
 # AKAN NAMES 
-
 #TABLE OF CONTEXT
 1. [General Info](#general-info)
 2. <a name="general-info"></a>
